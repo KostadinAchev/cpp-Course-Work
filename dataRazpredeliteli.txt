@@ -1,0 +1,12 @@
+Name: Mitko
+Address: 123
+Phone Number: 123
+------------------------
+Name: Koko
+Address: 123
+Phone Number: 123
+------------------------
+Name: Hanko
+Address: 123
+Phone Number: 123123
+------------------------

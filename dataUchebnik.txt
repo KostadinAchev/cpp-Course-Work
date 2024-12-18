@@ -1,0 +1,20 @@
+Headline: Dqdo vadi rqpa 
+Author: Kostadin
+Poredno Izdanie: 1
+ISBN: 1
+Date: 12/12/2024
+Tiraj: 1
+Price: 25.000000
+Approval: 0
+Approval Date: 
+------------------------
+Headline: Sol
+Author: Piper
+Poredno Izdanie: 2
+ISBN: 2
+Date: 21/02/2024
+Tiraj: 2
+Price: 25.000000
+Approval: 1
+Approval Date: 12/12/2024
+------------------------
